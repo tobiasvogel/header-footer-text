@@ -7,7 +7,7 @@
  * Author URI:  https://github.com/tobiasvogel
  * License:     MIT
  * License URI: https://opensource.org/licenses/MIT
- * Version:     2.0.2
+ * Version:     1.0.0
  * Text Domain: header-footer-text
  * Domain Path: /languages
  */
