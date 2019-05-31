@@ -3,7 +3,7 @@
 /**
  * Handles the shortcodes used by this plugin
  */
-class Footer_Text_Shortcodes {
+class Header_Footer_Text_Shortcodes {
 
 	/**
 	 * The shortcode tags to run* on the footer text, paired with their callbacks

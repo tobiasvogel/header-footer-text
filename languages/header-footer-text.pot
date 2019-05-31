@@ -6,7 +6,7 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: footer-text 2.0.2\n"
+"Project-Id-Version: header-footer-text 2.0.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-22 21:47+1100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -17,6 +17,10 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: includes/admin.php:36 includes/admin.php:37 includes/admin.php:67
+#: includes/admin.php:38 includes/admin.php:39 includes/admin.php:80
+msgid "Header Text"
+msgstr ""
+
+#: includes/admin.php:48 includes/admin.php:49 includes/admin.php:99
 msgid "Footer Text"
 msgstr ""

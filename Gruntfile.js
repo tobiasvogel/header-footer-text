@@ -8,7 +8,7 @@ module.exports = function(grunt) {
 		checktextdomain: {
 			standard: {
 				options:{
-					text_domain: 'footer-text',
+					text_domain: 'header-footer-text',
 					keywords: [
 						'__:1,2d',
 						'_e:1,2d',
@@ -35,7 +35,7 @@ module.exports = function(grunt) {
 
 		pot: {
 			options: {
-				text_domain: 'footer-text',
+				text_domain: 'header-footer-text',
 				dest: 'languages/',
 				keywords: ['__','_e','esc_html__','esc_html_e','esc_attr__', 'esc_attr_e', 'esc_attr_x', 'esc_html_x', 'ngettext', '_n', '_ex', '_nx']
 			},
@@ -62,7 +62,7 @@ module.exports = function(grunt) {
 					'readme.txt',
 					'license.txt',
 					'screenshot-*.{png,jpg}',
-					'footer-text.php',
+					'header-footer-text.php',
 					'uninstall.php',
 					'includes/**/*',
 					'languages/**/*'
@@ -75,8 +75,7 @@ module.exports = function(grunt) {
 		wp_deploy: {
 			deploy: {
 				options: {
-					plugin_slug: 'footer-text',
-					svn_user: 'bungeshea',
+					plugin_slug: 'header-footer-text',
 					build_dir: 'package'
 				}
 			}

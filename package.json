@@ -1,20 +1,20 @@
 {
-  "name": "footer-text",
+  "name": "header-footer-text",
   "version": "2.0.2",
-  "description": "Allow changing of the theme footer text easily from the dashboard.",
+  "description": "Allow changing of the theme header/footer text easily from the dashboard.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sheabunge/footer-text.git"
+    "url": "https://github.com/tobiasvogel/header-footer-text.git"
   },
   "keywords": [
     "wordpress-plugin"
   ],
-  "author": "Shea Bunge <bungeshea@gmail.com> (https://sheabunge.com)",
+  "author": "Tobias X. Vogel <tobias.vogel@linux.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sheabunge/footer-text/issues"
+    "url": "https://github.com/tobiasvogel/header-footer-text/issues"
   },
-  "homepage": "https://github.com/sheabunge/footer-text",
+  "homepage": "https://github.com/tobiasvogel/header-footer-text",
   "devDependencies": {
     "grunt": "^0.4.2",
     "grunt-contrib-copy": "^0.5.0",
